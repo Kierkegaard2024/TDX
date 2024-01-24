@@ -5,16 +5,17 @@ body {
 }
 
 h1 {
-    font-family: "Montserrat Black", Arial, sans-serif;
+    font-family: "Montserrat", Arial, sans-serif;
     font-size: 2rem;
     letter-spacing: normal;
+    font-weight: bold;
     text-rendering: geometricPrecision; 
 }
 
 h2 {
     font-family: "Montserrat", Arial, sans-serif;
     font-size: 1.5rem;
-	font-weight: bold;
+    font-weight: bold;
     letter-spacing: normal;
     text-rendering: geometricPrecision; 
 }
