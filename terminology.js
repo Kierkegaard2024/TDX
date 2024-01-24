@@ -1,4 +1,4 @@
-window.onload = clear();
+document.onload = clear();
 
 function clear() {            
 	document.body.innerHTML = document.body.replace('Service Catalog', 'Services');
