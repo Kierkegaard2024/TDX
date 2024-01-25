@@ -51,3 +51,11 @@ h6 {
     letter-spacing: normal;
     text-rendering: geometricPrecision; 
 }
+
+.navbar {
+    min-height: unset;
+}
+
+.navbar-subnav {
+    font-size: 14px;
+}
