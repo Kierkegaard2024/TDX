@@ -38,8 +38,8 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
-
+  document.body.style.backgroundImage = "url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/1596px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg')";
+  document.body.style.backgroundSize = "cover";
   //var audio = new Audio('audio/pling.mp3');
   //audio.play();
 
