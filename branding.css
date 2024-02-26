@@ -59,3 +59,7 @@ h6 {
 .navbar-subnav {
     font-size: 14px;
 }
+
+div.font-lg {
+    margin-bottom: 10px;
+}
