@@ -1,0 +1,65 @@
+body {
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 150%;
+}
+
+h1 {
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+h2 {
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+h3 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1.375rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+h4 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1.125rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+h5 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+h6 {
+    font-family: "Roboto Extrabold", sans-serif;
+    font-size: 0.875rem;
+    font-weight: bold;
+    letter-spacing: normal;
+    text-rendering: geometricPrecision; 
+}
+
+.navbar {
+    min-height: unset;
+}
+
+.navbar-subnav {
+    font-size: 14px;
+}
+
+div.font-lg {
+    margin-bottom: 8px;
+}
