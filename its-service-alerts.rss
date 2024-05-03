@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://eccmsdev2.douglascollege.ca/">
+  <channel>
+    <title>ITS Service Alert Feed</title>
+    <link>https://eccmsdev2.douglascollege.ca/</link>
+    <description>Service Alert Feed</description>
+    <language>en</language>
+    
+    <item>
+  <title>Power outage at New Westminster Campus - blackboard unavailable</title>
+  <link>https://eccmsdev2.douglascollege.ca/node/69970</link>
+  <description>&lt;p&gt;Due to power outage blackboard is currently unavailable.&nbsp;&lt;/p&gt;</description>
+  <pubDate>Wed 05/8/24 7:29 AM</pubDate>
+    <dc:creator>Natasha Scott</dc:creator>
+    <guid isPermaLink="true">https://eccmsdev2.douglascollege.ca/69970</guid>
+    </item>
+<item>
+  <title>Unscheduled service outage for phones, WiFi, printers and computers at New Westminster Campus - Nov. 17</title>
+  <link>https://eccmsdev2.douglascollege.ca/node/69971</link>
+  <description>&lt;p&gt;&nbsp;We are currently experiencing an unplanned service outage for phones, WiFi, printers and computers at New Westminster Campus.&lt;/p&gt;</description>
+  <pubDate>Mon 05/6/24 17:00 PM</pubDate>
+    <dc:creator>Natasha Scott</dc:creator>
+    <guid isPermaLink="true">https://eccmsdev2.douglascollege.ca/69971</guid>
+    </item>
+
+  </channel>
+</rss>
