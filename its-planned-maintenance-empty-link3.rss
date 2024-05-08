@@ -2,12 +2,12 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://eccmsdev2.douglascollege.ca/">
   <channel>
     <title>ITS Planned Maintenance Feed</title>
-    <link>https://eccmsdev2.douglascollege.ca/</link>
+    <link>https://solutions.douglascollege.ca/TDClient/163/Portal/Home/</link>
     <description>Planned Maintenance</description>
     <language>en</language>
     <item>
   <title>Scheduled Service Outage for myAccount, Self-Service, and Banner – Feb. 22-24</title>
-  <link>#</link>
+  <link>https://solutions.douglascollege.ca/TDClient/163/Portal/Home/</link>
   <description/>
   <pubDate>Mon 05/20/24 7:27 AM</pubDate>
     <dc:creator>Natasha Scott</dc:creator>
@@ -15,7 +15,7 @@
     </item>
 <item>
   <title>Planned service outage for myAccount, employee self-service and banner</title>
-  <link>#</link>
+  <link>https://solutions.douglascollege.ca/TDClient/163/Portal/Home/</link>
   <description>&lt;p&gt;Planned service outage for myAccount, employee self-service and banner. These will not be available first think in the nmorning. Please check our website for further info https://douglascollege.ca.&lt;/p&gt;</description>
   <pubDate>Mon 05/13/24 7:28 AM</pubDate>
     <dc:creator>Natasha Scott</dc:creator>
