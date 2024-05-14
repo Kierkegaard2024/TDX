@@ -125,7 +125,7 @@ function randomizeQuote() {
     const linkedQuote = `<center><a href="${philosopher.link}" style="color: #000000">${quoteContent}</a></center>`;
 
     quoteElement.innerHTML = linkedQuote;
-    authorElement.innerHTML = ` &mdash; <a href="${philosopher.link}" style="color: #000000">${philosopher.name}</a>`;
+    authorElement.innerHTML = `<center> &mdash; <a href="${philosopher.link}" style="color: #000000">${philosopher.name}</a></center>`;
   }
 }
 
