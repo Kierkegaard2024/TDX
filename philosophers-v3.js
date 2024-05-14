@@ -121,11 +121,11 @@ function randomizeQuote() {
   const authorElement = document.querySelector(".author");
 
   if (quoteElement && authorElement) {
-    const quoteContent = `<span class="fa fa-quote-left fa-border" aria-hidden="true"></span><i>${philosopher.quote}</i>`;
-    const linkedQuote = `<a href="${philosopher.link}" style="color: #ffffff">${quoteContent}</a>`;
+    const quoteContent = `<center><span class="fa fa-quote-left fa-border" aria-hidden="true"></span><i>${philosopher.quote}</i></center>`;
+    const linkedQuote = `<center><a href="${philosopher.link}" style="color: #000000">${quoteContent}</a></center>`;
 
     quoteElement.innerHTML = linkedQuote;
-    authorElement.innerHTML = ` &mdash; <a href="${philosopher.link}" style="color: #ffffff">${philosopher.name}</a>`;
+    authorElement.innerHTML = ` &mdash; <a href="${philosopher.link}" style="color: #000000">${philosopher.name}</a>`;
   }
 }
 
