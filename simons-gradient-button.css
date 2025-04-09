@@ -1,0 +1,33 @@
+.simons-gradient-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #000000;
+    background: linear-gradient(45deg, #93AA24, #C4D600);
+    border: 2px solid #262626;
+    transition: background 0.3s, color 0.3s;
+    font-family: 'Montserrat', Arial, sans-serif;
+    outline: none;
+  }
+  
+  .simons-gradient-button:hover {
+    background: linear-gradient(45deg, #b1c426, #d6e000);
+    color: #000000;
+  }  
+
+  .simons-gradient-button,
+  .simons-gradient-button:focus,
+  .simons-gradient-button:active,
+  .simons-gradient-button:visited {
+    outline: none !important;
+    border: 2px solid #262626 !important;
+    text-decoration: none !important;
+    box-shadow: none !important;
+  }
+  
+  
